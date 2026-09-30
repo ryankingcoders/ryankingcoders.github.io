@@ -1,1 +1,1 @@
-# ryankingcoders.gihub.io
+# ryankingcoders.github.io
